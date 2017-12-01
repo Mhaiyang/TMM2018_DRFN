@@ -1,6 +1,0 @@
-Dataset/
-
-.gitignore
-.gitattributes
-generate_train.m
-generate_test.m
