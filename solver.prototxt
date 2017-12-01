@@ -14,7 +14,7 @@ clip_gradients: 0.01
 # Display every 100 iterations
 display: 100
 # The maximum number of iterations
-max_iter: 1500000  #  epoch
+max_iter: 1500000  
 # snapshot intermediate results
 snapshot: 10000
 snapshot_prefix: "examples/DRFN/Caffemodel/sr"
