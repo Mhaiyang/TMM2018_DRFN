@@ -2,7 +2,5 @@ Dataset/
 
 .gitignore
 .gitattributes
-results/x4/x4.rar
-results/x8/x8.rar
 generate_train.m
 generate_test.m
