@@ -1,7 +1,7 @@
 # DRFN
 CAFFE implementation of "**DRFN: Deep Recurrent Fusion Network for Single Image Super-Resolution with Large Factors**" by Xin *et al*.
 
-![x4-Urban100-building](image/x4-Urban100-building.png)
+<div align=center>![x4-Urban100-building](image/x4-Urban100-building.png)</div>
 # Compare with state-of-the-art
 ![table1](image/table1.png)
 ![table2](image/table2.png)
