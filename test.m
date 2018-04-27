@@ -86,5 +86,7 @@ end
 toc;
 
 %% output
+fid = fopen('results.txt', 'w');
 fprintf('Mean PSNR for  Bic:  %.2f dB    SSIM:%.4f   IFC: %f \n', mean(psnr_bic),mean(ssim_bic),mean(IFC_bic));
 fprintf('Mean PSNR for  Ours: %.2f dB    SSIM:%.4f   IFC: %f \n', mean(psnr_sr),mean(ssim_sr),mean(IFC_DRF));
+fclose(fid);
